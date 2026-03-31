@@ -1,17 +1,50 @@
-# money_manager_app
+# 💰 Flutter Money Manager App
 
-A new Flutter project.
+A complete money management app built with Flutter.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 Firebase Authentication (Login / Signup)
+- 💵 Income & Expense Tracking
+- 🔁 Recurring Transactions (Daily, Weekly, Monthly, Custom)
+- 🧾 Receipt Attachment (Optional)
+- 📊 Monthly Report & Charts
+- 📂 Category Management with Budget
+- 💳 Loan Tracking (Given / Taken / Settled)
+- 📦 Backup & Restore (JSON)
+- 📄 Export to CSV
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📱 Screens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Home Dashboard
+- Add Income / Expense
+- Transactions List
+- Edit Transaction
+- Monthly Report
+- Categories
+- Loans Overview
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- Firebase Auth
+- Firestore
+- SharedPreferences
+
+---
+
+## 📦 APK (Demo)
+
+You can download and install the demo APK from Releases section.
+
+---
+
+## 👨‍💻 Developer
+
+**Zakaria**  
+Flutter Developer | AI/ML Enthusiast
