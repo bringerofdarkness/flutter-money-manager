@@ -48,3 +48,18 @@ You can download and install the demo APK from Releases section.
 
 **Zakaria**  
 Flutter Developer | AI/ML Enthusiast
+
+
+## 📸 Screenshots
+
+| Home | Transactions |
+|------|-------------|
+| ![Home](assets/screenshots/home1.jpeg) | ![Transactions](assets/screenshots/transaction.jpeg) |
+
+| Add Income | Add Expense |
+|------------|------------|
+| ![Income](assets/screenshots/income.jpeg) | ![Expense](assets/screenshots/expense.jpeg) |
+
+| Loans | Reports |
+|-------|--------|
+| ![Loan](assets/screenshots/loan.jpeg) | ![Report](assets/screenshots/report_1.jpeg) |
