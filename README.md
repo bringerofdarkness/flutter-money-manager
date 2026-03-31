@@ -1,54 +1,23 @@
-# 💰 Flutter Money Manager App
+# 💰 Money Manager App (Flutter)
 
-A complete money management app built with Flutter.
+A complete personal finance management app built using Flutter.  
+Track income, expenses, loans, and budgets with a clean and modern UI.
+
+---
 
 ## 🚀 Features
 
 - 🔐 Firebase Authentication (Login / Signup)
 - 💵 Income & Expense Tracking
 - 🔁 Recurring Transactions (Daily, Weekly, Monthly, Custom)
+- 📊 Monthly Reports & Analytics
 - 🧾 Receipt Attachment (Optional)
-- 📊 Monthly Report & Charts
-- 📂 Category Management with Budget
-- 💳 Loan Tracking (Given / Taken / Settled)
+- 💳 Loan Management (Given / Taken / Settled)
+- 📂 Category & Budget Management
 - 📦 Backup & Restore (JSON)
-- 📄 Export to CSV
+- 📄 Export Data to CSV
 
 ---
-
-## 📱 Screens
-
-- Home Dashboard
-- Add Income / Expense
-- Transactions List
-- Edit Transaction
-- Monthly Report
-- Categories
-- Loans Overview
-
----
-
-## 🛠 Tech Stack
-
-- Flutter
-- Dart
-- Firebase Auth
-- Firestore
-- SharedPreferences
-
----
-
-## 📦 APK (Demo)
-
-You can download and install the demo APK from Releases section.
-
----
-
-## 👨‍💻 Developer
-
-**Zakaria**  
-Flutter Developer | AI/ML Enthusiast
-
 
 ## 📸 Screenshots
 
@@ -62,4 +31,39 @@ Flutter Developer | AI/ML Enthusiast
 
 | Loans | Reports |
 |-------|--------|
-| ![Loan](assets/screenshots/loan.jpeg) | ![Report](assets/screenshots/report_1.jpeg) |
+| ![Loan](assets/screenshots/loan.jpeg) | ![Report](assets/screenshots/report1.jpeg) |
+
+---
+
+## 📦 Download APK
+
+👉 Go to **Releases section** to download and install the app.
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter (Dart)
+- Firebase Authentication
+- Cloud Firestore
+- SharedPreferences (Local Storage)
+
+---
+
+## ⚠️ Note
+
+- Firebase Storage is disabled in this demo version
+- This is a demo build for showcasing features
+
+---
+
+## 👨‍💻 Developer
+
+**Zakaria**  
+Flutter Developer | AI/ML Enthusiast  
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub — it motivates me to build more!
